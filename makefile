@@ -12,5 +12,8 @@ book-sl:
 book-en:
 	$(MAKE) book LANG=english
 
+play:
+	audacity source/*.mp4
+
 clean:
 	rm build -rf
