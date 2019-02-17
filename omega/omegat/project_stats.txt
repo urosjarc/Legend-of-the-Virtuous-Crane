@@ -1,0 +1,17 @@
+2/17/19 4:53 AM
+Project Statistics
+
+                 	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
+Total:           	     127	  630	                       2836	                         3348	     4	
+Remaining:       	     127	  630	                       2836	                         3348	     4	
+Unique:          	     116	  624	                       2787	                         3296	     4	
+Unique Remaining:	     116	  624	                       2787	                         3296	     4	
+
+
+Individual File Statistics:
+
+File Name	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
+core.tex 	            83	                83	             81	                       81	        399	            399	         396	                   396	                             1839	                                 1839	                              1825	                                        1825	                               2155	                                   2155	                                2140	                                          2140	
+end.tex  	            17	                17	             17	                       17	        126	            126	         126	                   126	                              520	                                  520	                               520	                                         520	                                629	                                    629	                                 629	                                           629	
+intro.tex	            26	                26	             17	                       17	        100	            100	          97	                    97	                              453	                                  453	                               418	                                         418	                                536	                                    536	                                 499	                                           499	
+title.tex	             1	                 1	              1	                        1	          5	              5	           5	                     5	                               24	                                   24	                                24	                                          24	                                 28	                                     28	                                  28	                                            28	
