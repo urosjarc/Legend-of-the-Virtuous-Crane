@@ -1,3 +1,8 @@
+setup:
+	tlmgr init-usertree
+	sudo tlmgr option repository ftp://tug.org/historic/systems/texlive/2017/tlnet-final
+	tlmgr install scquotes hyperref xcolor pagecolor afterpage graphicx
+
 book: clean
 	cp ./latex ./build -r
 	rm ./build/book -rf
