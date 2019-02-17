@@ -1,9 +1,12 @@
 \documentclass{report}
 
 \usepackage{graphicx}
-\usepackage{parselines}
 \usepackage{csquotes}
 \usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{pagecolor}
+\usepackage{afterpage}
+
 \usepackage[utf8]{inputenc}
 \usepackage[a5paper, margin=1.45cm]{geometry}
 
@@ -11,16 +14,47 @@
 
 \begin{document}
 
-		\vspace*{5cm}
-			\begin{center}
-				\input{book/question}
-			\end{center}
-		\vfill
+	\pagenumbering{gobble}
+
+	\pagecolor{black}
+	\color{white}
+
+	\vspace*{4cm}
+	\begin{center}
+		\huge
+		\textbf{\input{book/title}}
+	\end{center}
+	\vfill
 
 	\pagebreak
 
+	\pagecolor{white}
+	\color{black}
+
+	\vspace*{4cm}
 		\begin{center}
-			\input{book/answer_new}
+			\input{book/intro}
 		\end{center}
+	\vfill
+
+	\pagebreak
+
+	\begin{center}
+		\input{book/core}
+	\end{center}
+
+	\pagebreak
+
+	\vspace*{4cm}
+	\begin{center}
+		\input{book/end}
+	\end{center}
+	\vfill
+
+	\pagebreak
+	\afterpage{\null\newpage}
+
+	\pagecolor{black}
+	\color{white}
 
 \end{document}
