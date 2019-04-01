@@ -4,6 +4,22 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Legend of the Virtuous Crane</seg>
+      </tuv>
+      <tuv lang="SL" changeid="urosjarc" changedate="20190401T025024Z" creationid="urosjarc" creationdate="20190401T025024Z">
+        <seg>Legenda belega žerjava</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What is more important than the earth itself?</seg>
+      </tuv>
+      <tuv lang="SL" changeid="urosjarc" changedate="20190401T025232Z" creationid="urosjarc" creationdate="20190401T025232Z">
+        <seg>Kaj je pomembnejše od zemlje?</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
