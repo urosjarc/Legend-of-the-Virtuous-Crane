@@ -4,6 +4,846 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A gift.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T030112Z" creationid="urosjarc" creationdate="20190401T030112Z">
+        <seg>Dar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>And how does he find bliss in the next world?</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T034252Z" creationid="urosjarc" creationdate="20190401T034252Z">
+        <seg>Kako najdeš srečo v naslednjem življenju?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>And the dishonest one?</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T033128Z" creationid="urosjarc" creationdate="20190401T033128Z">
+        <seg>Kdo je nepošten človek?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>And the most righetoust one too!</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T034949Z" creationid="urosjarc" creationdate="20190401T034949Z">
+        <seg>Kakor tudi napravičnejši med vsemi!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>And what can be renounced without regret?</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T031153Z" creationid="urosjarc" creationdate="20190401T031153Z">
+        <seg>Čemu se lahko odpoveš brez obžalovanja?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>And what is true forgiveness?</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T031659Z" creationid="urosjarc" creationdate="20190401T031659Z">
+        <seg>Kaj je resnično odpuščanje?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>And what will be relinquished to gain happiness?</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T031310Z" creationid="urosjarc" creationdate="20190401T031310Z">
+        <seg>Čemu se moraš odpovedati da pridobiš srečo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Anger.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T032558Z" creationid="urosjarc" creationdate="20190401T031157Z">
+        <seg>Jeza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Are you Rudra!?</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T041407Z" creationid="urosjarc" creationdate="20190401T041407Z">
+        <seg>Ali si Rudra!?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As long as that word lasts, one is called a man.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T034556Z" creationid="urosjarc" creationdate="20190401T034556Z">
+        <seg>Dokler se ta beseda ohrani je on poimenovan človek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By being virtous in this one.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T034330Z" creationid="urosjarc" creationdate="20190401T034330Z">
+        <seg>Da si krepost v sedanjem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By subduing his senses.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T033743Z" creationid="urosjarc" creationdate="20190401T033743Z">
+        <seg>Ko ukroti svoje čute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Contentment.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T030605Z" creationid="urosjarc" creationdate="20190401T030605Z">
+        <seg>Zadovoljstvo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Covetousness.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T033028Z" creationid="urosjarc" creationdate="20190401T033028Z">
+        <seg>Želeti si imetja drugih.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Desire.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T031132Z" creationid="urosjarc" creationdate="20190401T031132Z">
+        <seg>Željam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do not drink the watter, before answering my questions!</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T040651Z" creationid="urosjarc" creationdate="20190401T040651Z">
+        <seg>Ne pij te vode dokler ne odgovoriš na moja vprašanja!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give me Nakula.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T035920Z" creationid="urosjarc" creationdate="20190401T035920Z">
+        <seg>Prosim oživi Nakulo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Greed.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T031335Z" creationid="urosjarc" creationdate="20190401T031335Z">
+        <seg>Pohlepu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ha ha ha ha ha, aaa, you are a great soul indeed Yudhishthira!</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T040434Z" creationid="urosjarc" creationdate="20190401T040434Z">
+        <seg>Ha ha ha ha ha, aaa, res si velika duša Yudhishthira!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>He who desires the happiness of all the living.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T033111Z" creationid="urosjarc" creationdate="20190401T033111Z">
+        <seg>Tisti ki želi srečo vseh živih bitij.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>He who endures enmity truly forgives.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T031949Z" creationid="urosjarc" creationdate="20190401T031949Z">
+        <seg>Tisti ki prenese sovraštvo resnično odpusti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>He who remains faithful.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T031528Z" creationid="urosjarc" creationdate="20190401T031528Z">
+        <seg>Tisti ki ostane zvest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Health.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T030501Z" creationid="urosjarc" creationdate="20190401T030501Z">
+        <seg>Zdravje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>How does a man become patient?</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T033600Z" creationid="urosjarc" creationdate="20190401T033600Z">
+        <seg>Kako postane človek potrpežljiv?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>How does he get what he wants?</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T034102Z" creationid="urosjarc" creationdate="20190401T034102Z">
+        <seg>Kako nekdo dobi kar hoče?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>How is a man agreeable?</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T034031Z" creationid="urosjarc" creationdate="20190401T034031Z">
+        <seg>Kako je človek strinjajoč?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I grant you a boon, ask me for the life of any one of your brothers.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T035856Z" creationid="urosjarc" creationdate="20190401T035856Z">
+        <seg>Izpolnim ti bom željo, zaželi si življenje katerega od svojih palih bratov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I grant you, not joust Nakula's life but, the life of all your brothers!</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T040613Z" creationid="urosjarc" creationdate="20190401T040613Z">
+        <seg>Obudil ne bom samo Nakulovega življenja pač pa življenja vseh tvojih bratov!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I have two mothers.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T040243Z" creationid="urosjarc" creationdate="20190401T040243Z">
+        <seg>Jaz imam dve mati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I know Bhima is dearest to you amont all your brothers.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T035958Z" creationid="urosjarc" creationdate="20190401T035958Z">
+        <seg>Vem da ti je Bhima najdražji izmed vseh svojih bratov.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I the son of Kunti am alive.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T040309Z" creationid="urosjarc" creationdate="20190401T040309Z">
+        <seg>Jaz sin Kunti sem še živ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I will never look apon another, like you in all time.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T040523Z" creationid="urosjarc" creationdate="20190401T040523Z">
+        <seg>Nikoli več ne bom videl človeka enakega tebi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I'm surprised.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T035926Z" creationid="urosjarc" creationdate="20190401T035926Z">
+        <seg>Presenečen sem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Knowledge.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T030416Z" creationid="urosjarc" creationdate="20190401T030416Z">
+        <seg>Znanje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Kunti and Mathuri.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T040254Z" creationid="urosjarc" creationdate="20190401T040254Z">
+        <seg>Kunti in Mathuri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Legend of the Virtuous Crane</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T025024Z" creationid="urosjarc" creationdate="20190401T025024Z">
+        <seg>Legenda belega žerjava</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Liberality.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T030030Z" creationid="urosjarc" creationdate="20190401T030030Z">
+        <seg>Radodarnost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>More numerous than the blades of grass?</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T025701Z" creationid="urosjarc" creationdate="20190401T025701Z">
+        <seg>Kaj je številčnejše od travnih bilk?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Not knowing one's Dharma.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T033357Z" creationid="urosjarc" creationdate="20190401T033357Z">
+        <seg>Ne poznati svoje življenjske poti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Of heaven?</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T030136Z" creationid="urosjarc" creationdate="20190401T030136Z">
+        <seg>Kaj je najvišje svetišče nebes?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>One's father.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T025416Z" creationid="urosjarc" creationdate="20190401T025416Z">
+        <seg>Oče.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>One's mother.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T025341Z" creationid="urosjarc" creationdate="20190401T025341Z">
+        <seg>Mati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Only he to whom joy and sorrow, fortune and misfortune, past and future are all the same.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T034842Z" creationid="urosjarc" creationdate="20190401T034842Z">
+        <seg>Samo tisti kateri ne razlikuje med srečo in žalovanjem, sreča in nesreča, preteklost in prihodnost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Only ignorance.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T033512Z" creationid="urosjarc" creationdate="20190401T033512Z">
+        <seg>Samo nevednost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Pride.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T030958Z" creationid="urosjarc" creationdate="20190401T030958Z">
+        <seg>Ponos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Protecting all creatures.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T033928Z" creationid="urosjarc" creationdate="20190401T033928Z">
+        <seg>Zaščita vseh bitij.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Show your self!!</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T040743Z" creationid="urosjarc" creationdate="20190401T040743Z">
+        <seg>Pokaži se!!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Skill.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T030346Z" creationid="urosjarc" creationdate="20190401T030346Z">
+        <seg>Spretnost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Speaking ill of others.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T033951Z" creationid="urosjarc" creationdate="20190401T033951Z">
+        <seg>Govoriti slabo o drugih.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Stop!</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T040620Z" creationid="urosjarc" creationdate="20190401T040620Z">
+        <seg>Stoj!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Surely the son of Mathuri, should also live.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T040402Z" creationid="urosjarc" creationdate="20190401T040402Z">
+        <seg>Sin od Mathuri mora tudi živeti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>That of the mind.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T031640Z" creationid="urosjarc" creationdate="20190401T031640Z">
+        <seg>Samoobvladanje uma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The good make the way, indeed they are the way.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T031442Z" creationid="urosjarc" creationdate="20190401T031442Z">
+        <seg>Dobri ljudje ustvarijo pot, resnično oni so pot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The greatest happiness?</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T030516Z" creationid="urosjarc" creationdate="20190401T030516Z">
+        <seg>Največja sreča?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The greatest treasure?</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T030450Z" creationid="urosjarc" creationdate="20190401T030450Z">
+        <seg>Kaj je najbogatejši zaklad?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The knowledge of god.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T032158Z" creationid="urosjarc" creationdate="20190401T032158Z">
+        <seg>Znanje o zavesti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The mind.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T025611Z" creationid="urosjarc" creationdate="20190401T025611Z">
+        <seg>Um.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The most valuable possession?</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T030410Z" creationid="urosjarc" creationdate="20190401T030410Z">
+        <seg>Kaj je najbolj vredno posestvo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The one who has no mercy.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T033206Z" creationid="urosjarc" creationdate="20190401T033206Z">
+        <seg>Tisti ki nima usmiljenja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The thoughts in the mind.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T025730Z" creationid="urosjarc" creationdate="20190401T025730Z">
+        <seg>Misli v umu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The truth.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T030142Z" creationid="urosjarc" creationdate="20190401T030142Z">
+        <seg>Resnica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To injure none of the living.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T030805Z" creationid="urosjarc" creationdate="20190401T030805Z">
+        <seg>Neškoditi živim bitjem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What disease has no cure?</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T032613Z" creationid="urosjarc" creationdate="20190401T032613Z">
+        <seg>Katera bolezen nima zdravila?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What is charity?</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T033859Z" creationid="urosjarc" creationdate="20190401T033859Z">
+        <seg>Kaj je miloščina?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What is grief?</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T033501Z" creationid="urosjarc" creationdate="20190401T033501Z">
+        <seg>Kaj je obžalovanje?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What is higher than heaven?</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T025409Z" creationid="urosjarc" creationdate="20190401T025409Z">
+        <seg>Kaj je višje od nebes?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What is ignorance?</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T033214Z" creationid="urosjarc" creationdate="20190401T033214Z">
+        <seg>Kaj je nevednost?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What is mercy?</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T032406Z" creationid="urosjarc" creationdate="20190401T032406Z">
+        <seg>Kaj je usmiljenost?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What is more important than the earth itself?</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T025232Z" creationid="urosjarc" creationdate="20190401T025232Z">
+        <seg>Kaj je pomembnejše od zemlje?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What is pride?</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T033402Z" creationid="urosjarc" creationdate="20190401T033402Z">
+        <seg>Kaj je ponos?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What is real knowledge?</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T031959Z" creationid="urosjarc" creationdate="20190401T031959Z">
+        <seg>Kaj je resnično znanje?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What is simplicity?</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T032526Z" creationid="urosjarc" creationdate="20190401T032526Z">
+        <seg>Kaj je preprostost?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What is swifter than wind?</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T025605Z" creationid="urosjarc" creationdate="20190401T025605Z">
+        <seg>Kaj se spreminja hitreje kot veter?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What is the highest Dharma?</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T030627Z" creationid="urosjarc" creationdate="20190401T030627Z">
+        <seg>Kaj je najvišja dharma?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What is the highest sanctuary of Dharma?</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T025803Z" creationid="urosjarc" creationdate="20190401T025803Z">
+        <seg>Kaj je najvišje svetišče življenja?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What is the highest sanctuary of fame?</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T030048Z" creationid="urosjarc" creationdate="20190401T030048Z">
+        <seg>Kaj je najvišje svetišče slave?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What is the honest man?</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T033043Z" creationid="urosjarc" creationdate="20190401T033043Z">
+        <seg>Kdo je pošten človek?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What is the invincible enemy?</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T032555Z" creationid="urosjarc" creationdate="20190401T032555Z">
+        <seg>Kaj je nepremagljiv sovražnik?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What is the most praiseworthy thing of all?</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T030204Z" creationid="urosjarc" creationdate="20190401T030204Z">
+        <seg>Kaj je najbolj spoštovana stvar?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What is tranquility?</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T032318Z" creationid="urosjarc" creationdate="20190401T032318Z">
+        <seg>What is umirjenost?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What is true restraint?</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T031554Z" creationid="urosjarc" creationdate="20190401T031554Z">
+        <seg>Kaj je pravo samoobvladanje?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What is wickedness?</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T033940Z" creationid="urosjarc" creationdate="20190401T033940Z">
+        <seg>Kaj je pokvarjenost?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What makes the way?</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T031405Z" creationid="urosjarc" creationdate="20190401T031405Z">
+        <seg>Kaj ustvarja pot?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What must be controlled?</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T030820Z" creationid="urosjarc" creationdate="20190401T030820Z">
+        <seg>Kaj mora biti v kontroli?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What renounce to make a man agreeable?</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T030954Z" creationid="urosjarc" creationdate="20190401T030954Z">
+        <seg>Čemu se je potrebno odpovedati da narediš človeka odprtega?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What renounce to make a man wealthy?</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T031122Z" creationid="urosjarc" creationdate="20190401T031122Z">
+        <seg>Čemu se je potrebno odpovedati da postaneš bogat?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When a man thinks that he's the one who is the doer of life.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T033450Z" creationid="urosjarc" creationdate="20190401T033450Z">
+        <seg>Ko človek misli da je on ustvarjalec življenja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When he acts with discernment.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T034158Z" creationid="urosjarc" creationdate="20190401T034158Z">
+        <seg>Ko naredi dejanje z dobro presojo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When he speaks agreeably.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T034043Z" creationid="urosjarc" creationdate="20190401T034043Z">
+        <seg>Ko govori strinjajoče.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When one desires the happiness of all creatures.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T032459Z" creationid="urosjarc" creationdate="20190401T032459Z">
+        <seg>Želeti si srečo vseh živih bitij.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When the heart is still.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T032342Z" creationid="urosjarc" creationdate="20190401T032342Z">
+        <seg>Ko srce stoji na miru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When the heart is tranquil.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T032536Z" creationid="urosjarc" creationdate="20190401T032536Z">
+        <seg>Ko je srce umirjen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When the heart is washed clean.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T033837Z" creationid="urosjarc" creationdate="20190401T033837Z">
+        <seg>Ko je srce očiščeno umazanije.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Where are you!?</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T040707Z" creationid="urosjarc" creationdate="20190401T040707Z">
+        <seg>Kje si!?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Which is the true ablution?</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T033806Z" creationid="urosjarc" creationdate="20190401T033806Z">
+        <seg>Kaj je prava zaveza?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Who are you!!</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T040750Z" creationid="urosjarc" creationdate="20190401T040750Z">
+        <seg>Kdo si!!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Who are you!?</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T040659Z" creationid="urosjarc" creationdate="20190401T040659Z">
+        <seg>Kdo si!?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Who is he Yudhishthira, who has every kind of walth?</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T034640Z" creationid="urosjarc" creationdate="20190401T034640Z">
+        <seg>Kdo je Yudhishthira, ki ima vse možno bogastvo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Who is the ascetic?</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T031454Z" creationid="urosjarc" creationdate="20190401T031454Z">
+        <seg>Kdo je asket?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Who is the real man?</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T034341Z" creationid="urosjarc" creationdate="20190401T034341Z">
+        <seg>Kdo je pravi človek?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Why?</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T040226Z" creationid="urosjarc" creationdate="20190401T040226Z">
+        <seg>Zakaj?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Word of one's good deeds reach heaven and are spread from there across the earth.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T034457Z" creationid="urosjarc" creationdate="20190401T034457Z">
+        <seg>Ko beseda o njegovih dobrih delih doseže nebesa in se od tam razširi po zemlji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Yeat you chose Nakulas life over others.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T040220Z" creationid="urosjarc" creationdate="20190401T040220Z">
+        <seg>A kljub temu si želiš obuditi Nakulo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You depend on Arjuna to win the war thats coming.</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T040058Z" creationid="urosjarc" creationdate="20190401T040058Z">
+        <seg>Odvisen si od Arjune da boš zmagal v prihajajoči vojni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Yudhishthira you are the wisest man in the world!</seg>
+      </tuv>
+      <tuv xml:lang="SL" changeid="urosjarc" changedate="20190401T034925Z" creationid="urosjarc" creationdate="20190401T034925Z">
+        <seg>Yudhishthira ti si najpametnejši mož!</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
