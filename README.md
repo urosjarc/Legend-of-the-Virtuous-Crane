@@ -1,5 +1,7 @@
 # Legend of the Virtuous Crane
 
-## Glossary
+## Video
 
-* [Rudra](https://en.wikipedia.org/wiki/Rudra)
+* [Sadhguru: Mahabharath](ttps://youtu.be/PLhC5vn5E3w?t=2992)
+
+## Glossary
